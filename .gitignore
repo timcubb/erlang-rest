@@ -1,0 +1,6 @@
+rel/erlang_rest
+*.dump
+*.beam
+*.app
+deps
+.DS_Store
